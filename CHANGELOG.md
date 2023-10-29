@@ -8,6 +8,7 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 ## Added
 - Added primary and secondary font.
 - Added home images.
+- Added database to package.json.
 
 ## Changed
 
