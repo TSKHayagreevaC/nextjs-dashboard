@@ -10,6 +10,7 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 - Added home images.
 - Added database to package.json.
 - Added Authentication pages.
+- Added Metadata.
 
 ## Changed
 
